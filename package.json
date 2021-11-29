@@ -1,16 +1,19 @@
 {
-  "name": "@sushiswap/sdk",
+  "name": "mydaswapsdk",
   "license": "MIT",
   "version": "5.0.0-canary.108",
-  "description": "🛠 An SDK for building applications on top of SushiSwap.",
+  "description": "🛠 An SDK for building applications on top of MydaDex.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sushiswap/sushiswap-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mydacoin-Multiswap/mydaswap-sdk.git"
+  },
   "keywords": [
-    "sushiswap",
+    "mydadex",
     "ethereum",
     "sdk"
   ],
@@ -58,6 +61,8 @@
   "devDependencies": {
     "@sushiswap/prettier-config": "^0.1.0",
     "@types/big.js": "^6.1.0",
+    "@types/jasmine": "^3.10.2",
+    "@types/mocha": "^9.0.0",
     "babel-plugin-transform-jsbi-to-bigint": "^1.4.0",
     "husky": "^7.0.0",
     "lint-staged": "^11.1.2",
@@ -66,5 +71,13 @@
   },
   "engines": {
     "node": ">=14"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Mydacoin-Multiswap/mydaswap-sdk/issues"
+  },
+  "homepage": "https://github.com/Mydacoin-Multiswap/mydaswap-sdk#readme",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Jetso Analin"
 }
