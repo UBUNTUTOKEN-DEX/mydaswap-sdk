@@ -99,7 +99,7 @@ export const ROUTER_ADDRESS: AddressMap = {
 }
 
 export const SUSHI_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '0x6B3595068778DD592e39A122f4f5a5cF09C90fE2',
+  [ChainId.MAINNET]: '0x2310ea29dc8e2fcf93104d76be6265fb05fd4a22',
   [ChainId.ROPSTEN]: '0x83176cD06D15e916F4F2a9EFBB77b2b4be5d9968',
   [ChainId.RINKEBY]: '',
   [ChainId.GÖRLI]: '',
@@ -107,11 +107,11 @@ export const SUSHI_ADDRESS: AddressMap = {
   [ChainId.FANTOM]: '',
   [ChainId.MATIC]: '',
   [ChainId.XDAI]: '',
-  [ChainId.BSC]: '',
+  [ChainId.BSC]: '0x02132c1045d91fbf5ECd9Ed81634f3a9E0b2223e',
   [ChainId.BSC_TESTNET]: '0xe158Ee50755C776353726b79B444Fc8fE816967E',
   [ChainId.ARBITRUM]: '',
   [ChainId.AVALANCHE]: '',
-  [ChainId.HECO]: '',
+  [ChainId.HECO]: '0x2310ea29Dc8e2fCf93104D76BE6265FB05fd4a22',
   [ChainId.HARMONY]: '',
   [ChainId.OKEX]: '',
   [ChainId.OKEX_TESTNET]: '',
