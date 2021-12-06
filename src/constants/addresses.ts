@@ -99,7 +99,7 @@ export const ROUTER_ADDRESS: AddressMap = {
 }
 
 export const SUSHI_ADDRESS: AddressMap = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0x6B3595068778DD592e39A122f4f5a5cF09C90fE2',
   [ChainId.ROPSTEN]: '0x83176cD06D15e916F4F2a9EFBB77b2b4be5d9968',
   [ChainId.RINKEBY]: '',
   [ChainId.GÖRLI]: '',
