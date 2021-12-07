@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mydacoin-Multiswap/mydaswap-sdk.git"
+    "url": "git+https://github.com/Mydacoin-Multiswap/mydaswapsdk.git"
   },
   "keywords": [
     "mydadex",
@@ -73,9 +73,9 @@
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/Mydacoin-Multiswap/mydaswap-sdk/issues"
+    "url": "https://github.com/Mydacoin-Multiswap/mydaswapsdk/issues"
   },
-  "homepage": "https://github.com/Mydacoin-Multiswap/mydaswap-sdk#readme",
+  "homepage": "https://github.com/Mydacoin-Multiswap/mydaswapsdk#readme",
   "directories": {
     "test": "test"
   },
