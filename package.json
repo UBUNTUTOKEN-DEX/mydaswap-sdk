@@ -1,8 +1,8 @@
 {
-  "name": "mydaswapsdk",
+  "name": "ubuntusdk",
   "license": "MIT",
   "version": "5.0.0-canary.211",
-  "description": "🛠 An SDK for building applications on top of MydaDex.",
+  "description": "🛠 An SDK for building applications on top of Ubuntu.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mydacoin-Multiswap/mydaswapsdk.git"
+    "url": "git+https://github.com/UBUNTUTOKEN-DEX/ubuntu-sdk.git"
   },
   "keywords": [
     "mydadex",
@@ -73,9 +73,9 @@
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/Mydacoin-Multiswap/mydaswapsdk/issues"
+    "url": "https://github.com/UBUNTUTOKEN-DEX/ubuntu-sdk/issues"
   },
-  "homepage": "https://github.com/Mydacoin-Multiswap/mydaswapsdk#readme",
+  "homepage": "https://github.com/UBUNTUTOKEN-DEX/ubuntu-sdk#readme",
   "directories": {
     "test": "test"
   },

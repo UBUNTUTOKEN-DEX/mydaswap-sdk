@@ -1,8 +1,8 @@
-# MydaSwap SDK
+# Ubuntu SDK
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
-This modifies uniswap-sdk's UniswapV2Factory address. The new address for mydadex is `0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac`.
+This modifies uniswap-sdk's UniswapV2Factory address. The new address for ubuntu is `0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac`.
 
 ## Running tests
 
@@ -11,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/Mydacoin-Multiswap/mydaswap-sdk.git
+git clone https://github.com/UBUNTUTOKEN-DEX/ubuntu-sdk.git
 ```
 
-Move into the mydaswap-sdk working directory
+Move into the ubuntu-sdk working directory
 
 ```sh
-cd mydaswap-sdk/
+cd ubuntu-sdk/
 ```
 
 Install dependencies
