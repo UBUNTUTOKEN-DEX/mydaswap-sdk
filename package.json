@@ -1,7 +1,7 @@
 {
   "name": "ubuntusdk",
   "license": "MIT",
-  "version": "5.0.0-canary.211",
+  "version": "5.0.0-canary.212",
   "description": "🛠 An SDK for building applications on top of Ubuntu.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
